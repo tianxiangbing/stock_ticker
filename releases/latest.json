@@ -1,8 +1,8 @@
 {
-  "version": "0.1.1",
-  "issued_at": 1788750534,
-  "package_url": "https://github.com/tianxiangbing/stock_ticker/releases/download/v0.1.1/AshareQuant-win.zip",
-  "sha256": "7cdf4f402843c488f738bcd2eececceb488cab52b31581364b21005cf0eff98c",
+  "version": "0.1.2",
+  "issued_at": 1788859223,
+  "package_url": "https://github.com/tianxiangbing/stock_ticker/releases/download/v0.1.2/AshareQuant-win.zip",
+  "sha256": "e85cf8ef3793eef918c3764eb7abe40cd082d933fae5cb7e5f7883f9f0879b07",
   "revoked": [],
-  "sig": "_rGqtlJdU8iapSKN2mj7vBuPP5Lu4i9s2BDo-SMNwo0z_NYRg5a4VQ246kbSKb8q1vBWrJpn8UFjNHDRGuKKCg"
+  "sig": "zQ_-ObB5pxifMkulRgV2rClUEc9E_v6j5LMlEHHidopotTJyq3B1Ypk94Q17OCIh3Pok1yeHl79ZX106Sf09BQ"
 }
